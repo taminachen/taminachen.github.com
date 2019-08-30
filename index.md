@@ -11,7 +11,7 @@
       <p><b>微信：mq150756</b></p>
       <p><b>邮箱：17367781617@163.com</b></p>
       <p><b>地址：石家庄市长安区北二环东路17号石家庄铁道大学，邮编050000</b></p>
-      <p><b>博客：</b><a href="/index-en.html">English Version</a></p>
+      <p><b>博客：</b><a href="https://taminachen.github.io/">English Version</a></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
