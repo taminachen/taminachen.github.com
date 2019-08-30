@@ -24,7 +24,7 @@
 ---
 
 ---
- <img src="/skills.jpg" width="100%">
+ <img src="/skills.png" width="100%">
 ### 技能清单
 - 担任职务：大一副班长，大二至今学习委员
 - 英语：通过四六级。
